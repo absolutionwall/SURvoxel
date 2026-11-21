@@ -1,0 +1,14 @@
+build*/
+dist/
+out/
+.deps/
+node_modules/
+venv/
+.venv/
+__pycache__/
+releases/
+*.zip
+*.exe
+*.dll
+*.log
+.env
